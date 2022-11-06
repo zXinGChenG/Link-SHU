@@ -72,3 +72,4 @@ Designed By @[amluckydave](https://github.com/amluckydave)
 % 图标来自: @ChunWai振玮 | iconfont.com
 
 ![https://github.com/Holaplace/shuClient?raw=true](https://raw.githubusercontent.com/Holaplace/shuClient/master/alpha%20version.jpg?raw=true)
+![image](https://github.com/zXinGChenG/Link-SHU/blob/main/111.jpg)
